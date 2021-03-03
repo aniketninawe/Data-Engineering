@@ -1,0 +1,18 @@
+#######################
+Python libraires used:
+#######################
+numpy
+pandas
+matplotlib
+pyspark
+os
+plotly
+itertools
+tqdm
+
+##############################################################
+Code:
+The provided notebooks need to be run with Jupyter Notebook.
+##############################################################
+MS2_Preprocessing.ipynb
+MS2_Running_correlations.ipynb
